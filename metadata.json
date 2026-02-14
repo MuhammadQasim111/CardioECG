@@ -1,0 +1,7 @@
+{
+  "name": "Cardio-Prioritize",
+  "description": "An AI-powered cardiac triage dashboard that prioritizes patients based on ECG-detected severity using Gemini vision and analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
